@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 class LinkedList {
   constructor() {
     this.nodes = []
